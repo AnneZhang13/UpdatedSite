@@ -27,7 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: yzhang42@binghamton.edu
   # phone: 888 888 88 88
-  directions: N04, Engineering Building
+  directions: 
   address:
     street: 4400 Vestal Pkwy E
     city: Binghamton
