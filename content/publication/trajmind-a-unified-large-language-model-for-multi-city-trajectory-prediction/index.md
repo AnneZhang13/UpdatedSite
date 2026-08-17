@@ -8,7 +8,7 @@ authors:
   - Xin Zhang
   - Lei Le
   - Zhaohan Xi
-  - and admin
+  - admin
 author_notes: []
 publication: In 26th IEEE International Conference on Data Mining (ICDM), 2026
 draft: false
