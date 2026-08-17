@@ -10,8 +10,7 @@ authors:
   - Zhaohan Xi
   - and admin
 author_notes: []
-publication: IEEE International Conference on Data Mining (ICDM), 12-15 November
-  2026. (Acceptance rate = 19.94%)
+publication: In 26th IEEE International Conference on Data Mining (ICDM), 2026
 draft: false
 featured: false
 image:
