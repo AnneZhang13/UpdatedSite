@@ -11,8 +11,8 @@ design:
 * **<font color="red">\[Award]</font>** 10/2026: Received the Outstanding Research Achievement Award from the School of Computing at Binghamton University (2025-26).
 * **<font color="blue">\[Paper]</font>** 09/2026: Two papers were accepted by [NeurIPS 2026](https://neurips.cc/).
 * **<font color="blue">\[Paper]</font>** 08/2026: One paper was accepted by [ICDM 2026](https://icdm2026.neu.edu.cn/). Congratulations to Yuhang and Xinbo!
-* **<font color="red">\[Award]</font>** 07/2026: Received the NSF Future CoRe (Info Integration & Informatics) award (as Co-PI)！
-* **<font color="red">\[Award]</font>** 07/2026: Received the NSF CAREER Award (as PI)!
+* **<font color="red">\[Award]</font>** 07/2026: Received the NSF Future CoRe (Info Integration & Informatics) award！
+* **<font color="red">\[Award]</font>** 07/2026: Received the NSF CAREER Award!
 * **<font color="blue">\[Paper]</font>** 5/2026: Two papers were accepted by [ICML 2026](https://icml.cc/) and selected as **Spotlights**.
 * **<font color="blue">\[Paper]</font>** 11/2025: One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/). Congratulations to Yuhang!﻿
 * **<font color="blue">\[Paper]</font>** 08/2025: One paper was accepted by [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html). Congratulations to Yuhang!
