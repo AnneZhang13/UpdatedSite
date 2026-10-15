@@ -8,7 +8,7 @@ interests:
   - Reinforcement Learning
   - Imitation Learning
   - Spatial-Temporal Data Mining
-  - LLMs/VLMs/Foundation Models
+  - LLMs / VLMs / Foundation Models
   - Generative AI
   - Representation Leaning
 social:
@@ -42,8 +42,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yingxue Zhang is an Assistant Professor in **[School of Computing](https://www.binghamton.edu/computer-science/)** at **[Binghamton University](https://www.binghamton.edu/)**. She got her Ph.D. degree in Data Science from Worcester Polytechnic Institute in 2022. Her research focuses on AI for urban computing and big data analytics. In particular, She is interested in: (1) AI for human decision-making and behavior analysis, and (2) AI for spatial-temporal data mining, with applications in smart cities and urban intelligence. 
-
+Yingxue Zhang is an Assistant Professor in **[School of Computing](https://www.binghamton.edu/computer-science/)** at **[Binghamton University](https://www.binghamton.edu/)**. She got her Ph.D. degree in Data Science from Worcester Polytechnic Institute in 2022. Her research focuses on AI for urban computing and big data analytics, with particular interests in (1) AI for human decision-making and behavior analysis and (2) AI for spatial-temporal data mining, with applications in smart cities and urban intelligence.
 
 
 
