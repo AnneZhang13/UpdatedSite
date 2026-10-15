@@ -1,5 +1,5 @@
 ---
-title: CURe: Conservative Unlearning with Soft-Gating Regularization for Offline Reinforcement Learning
+title: "CURe: Conservative Unlearning with Soft-Gating Regularization for Offline Reinforcement Learning"
 publication_types:
   - "0"
 authors:
